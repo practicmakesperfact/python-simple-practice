@@ -1,5 +1,4 @@
 
-
 print("  Student Grade Calculator \n\n")
 while True:
    totalGrade=0

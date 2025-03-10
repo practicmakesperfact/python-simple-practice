@@ -1,0 +1,1 @@
+[{'student_name': 'buze', 'student_id': 2, 'Courses_count': 2, 'courses_name_value': [{'Course_name': 'c', 'Grade': 67.0}, {'Course_name': 'js', 'Grade': 89.0}, {'Course_name': 'java', 'Grade': 67.0}, {'Course_name': 'py', 'Grade': 90.0}], 'average_grade': 78.5, 'rank': 1}]
